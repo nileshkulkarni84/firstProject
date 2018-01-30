@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mongodb": "^2.1"
+  },
+  "scripts": {
+    "test": "snyk test"
+  },
+  "devDependencies": {
+    "snyk": "^1.69.1"
+  }
+}
